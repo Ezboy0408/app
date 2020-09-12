@@ -45,7 +45,7 @@
     "less": "^3.10.3",
     "less-loader": "^4.1.0",
     "mini-css-extract-plugin": "^0.4.5",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.1.6",
     "postcss-px-to-viewport": "^1.1.1",
     "postcss-px2rem-exclude": "0.0.6",
